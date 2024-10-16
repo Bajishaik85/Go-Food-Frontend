@@ -41,7 +41,7 @@ const Home = () => {
                         </div>
                     </div>
                     <div className="carousel-item active">
-                        <img src="https://source.unsplash.com/random/900x700/?Biryani" className="d-block w-100" alt="..." />
+                        <img src="https://loremflickr.com/900/700/biryani" className="d-block w-100" alt="..." />
                     </div>
                     <div className="carousel-item">
                         <img src="https://source.unsplash.com/random/900x700/?Pizza" className="d-block w-100" alt="..." />

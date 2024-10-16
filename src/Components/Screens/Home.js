@@ -44,10 +44,10 @@ const Home = () => {
                         <img src="https://loremflickr.com/900/700/biryani" className="d-block w-100" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://source.unsplash.com/random/900x700/?Pizza" className="d-block w-100" alt="..." />
+                        <img src="https://loremflickr.com/900/700/pizza" className="d-block w-100" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://source.unsplash.com/random/900x700/?Salad" className="d-block w-100" alt="..." />
+                        <img src="https://loremflickr.com/900/700/salad" className="d-block w-100" alt="..." />
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
